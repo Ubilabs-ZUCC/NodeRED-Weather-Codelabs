@@ -1,6 +1,6 @@
 # Summary
 
-* [零、介绍](0README.md)
+* [Introduction](README.md)
 * [一、准备](1prepare.md)
 * [二、Hello World！](2hello-world.md)
 * [三、布置一串节点](3bu-zhi-jie-dian.md)
